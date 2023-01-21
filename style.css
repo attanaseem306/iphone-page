@@ -1,0 +1,151 @@
+*{
+    
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body{
+    background-color: black;
+}
+.ull{
+    list-style: none;
+    background-color: black;   
+}
+li{
+    display: inline-block;
+    font-size: 15px; 
+    margin-left: 30px;    
+}
+.a{
+    text-decoration: none;
+    color: rgb(254, 252, 252);
+    
+}
+ .a:hover{
+    text-decoration: underline;
+    
+}
+.zz{
+     width: 25px;
+     height: 25px;
+     color: white;
+     background-color: black;
+    
+     
+     
+}
+.one{
+    margin-left: 210px;
+}
+
+.para{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 10%;
+    line-height: 50px;
+    font-weight: bold;
+}
+.pa{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.bt{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 15px;
+    width: 270px;
+    height: 35px;
+    background-color:black;
+    margin-left: 40%;
+    text-decoration: none;
+    border-radius: 50px;
+    
+} 
+ .bth{
+    background-color: black;
+    color: beige;
+    text-decoration: none;
+    font-size: 22px;
+    
+    
+} 
+.bth:hover{
+    text-decoration: none;
+    background-color:white;
+    color: black;
+}
+.bt:hover{
+    background-color: white;
+
+}
+
+.at{
+    
+    text-decoration: none;
+}
+
+.aa{
+    font-size: 60px;
+    margin-left: 510px;
+    font-weight: bold;
+    margin-top: 180px;
+    color: white;
+}
+
+.bb{
+    font-size: 35px;
+    margin-left: 420px;
+    color: white;
+}
+.cc{
+    font-size: 23px;
+    margin-left: 565px;
+    color: white;
+    line-height: 60px;
+}
+
+.dd{
+    font-size: 23px;
+    margin-left: 510px;
+    color: rgb(56, 56, 221);
+    line-height: 60px;
+    line-height: 50px;
+    
+}
+.ee{
+    font-size: 23px;
+    margin-left:50px;
+    color: rgb(56, 56, 221);  
+    line-height: 60px;
+    
+}
+.atta{
+    text-decoration: none;
+}
+  .fixed{
+position: fixed; 
+top: 0;  
+
+} 
+.apple{
+    margin-left:90px;
+}
+.img-mac{
+    margin-bottom: 50px;
+    width: 900px;
+    position: absolute;
+    left: 20%;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+
